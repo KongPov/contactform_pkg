@@ -1,0 +1,17 @@
+{
+    "name": "ros/contactform",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ros\\Contactform\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ros\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
