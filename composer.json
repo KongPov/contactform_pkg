@@ -1,15 +1,15 @@
 {
-    "name": "ros/contactform",
+    "name": "group6/contactform",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Ros\\Contactform\\": "src/"
+            "Group6\\Contactform\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ros\\Contactform\\ContactFormServiceProvider"
+                "Group6\\Contactform\\ContactFormServiceProvider"
             ]
         }
     },
