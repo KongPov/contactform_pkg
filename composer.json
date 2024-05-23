@@ -13,7 +13,9 @@
             ]
         }
     },
-    "require": {},
+    "require": {
+        "group6/contactform": "1.0.*"
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
